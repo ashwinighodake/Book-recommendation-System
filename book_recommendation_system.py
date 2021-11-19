@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+#python3 -m venv env
+#source venv/bin/activate
+#python3 filename.py
 
 import dash
 import dash_core_components as dcc
